@@ -1,0 +1,14 @@
+citHeader("To cite geodimensionData in publications use:")
+
+citEntry(entry = "Manual",
+  title        = "{geodimensionData}: Repository of Geographic Dimensions",
+  author       = personList(as.person("Jose Samos")),
+  year         = "2020",
+  note         = "R package version 1.0.0",
+  url          = "https://github.com/josesamos/geodimensionData",
+
+  textVersion  =
+  paste("Jose Samos (2020).",
+        "geodimensionData: Repository of Geographic Dimensions.",
+        "https://github.com/josesamos/geodimensionData.")
+)
