@@ -8,7 +8,7 @@
 A \code{geodimension}.
 }
 \source{
-\url{https://www.ign.es}
+\url{https://www.ign.es}, \url{https://www.mapa.gob.es}
 }
 \usage{
 gd_es_municipio
